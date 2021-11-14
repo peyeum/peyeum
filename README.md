@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @peyeum
+- 👋 Hi, I’m <a href="https://github.com/peyeum">Peyeum</a>
+- 🏫 I’m a collage student at <a href="https://stmik.ipem.ac.id/">STMIK Insan Pembangunan</a>
 - 👨‍💻 I’m currently learning Javascript
 - 📫 You can reach me via <a href="mailto:farhanm200@gmail.com">Email</a> or <a href="https://discordapp.com/users/538242989756121088/">Discord</a>
 <!---
